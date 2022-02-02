@@ -2,7 +2,8 @@
 - 👀 I’m interested in Python, Javascript, Django framework, Flask framework
 - 🌱 I’m currently learning about Frontend and Backend development from Patika and 
 freecodecamp and videos of youtube
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django project that about e-commerce,blog or social media app
+- and some project about mobile application with developing react-native or kotlin 
 - 📫 How to reach me dursunalim92@gmail.com
 
 <!---
